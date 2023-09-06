@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/renz0ca/release-please-tests/compare/text-tools-v0.1.2...text-tools-v0.1.3) (2023-09-06)
+
+
+### Features
+
+* **cli:** add dummy function ([0bdc586](https://github.com/renz0ca/release-please-tests/commit/0bdc586b0cc0e4d0acee039238b48cc1eb180422))
+
 ## [0.1.2](https://github.com/renz0ca/release-please-tests/compare/text-tools-v0.1.1...text-tools-v0.1.2) (2023-09-06)
 
 
