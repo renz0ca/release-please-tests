@@ -1,0 +1,18 @@
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pull-requests: write
+
+name: Update Release
+
+jobs:
+  release-please:
+    runs-on: Michaels-MacBook-Pro
+    steps:
+      - uses: google-github-actions/release-please-action@v3
+        with:
+          command: manifest
