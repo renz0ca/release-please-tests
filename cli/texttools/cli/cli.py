@@ -55,3 +55,6 @@ def parse_args_compile():
     )
     parser.add_argument("-t", "--text", type=str, required=True)
     return parser.parse_args()
+
+def dummy_function(self):
+    pass
