@@ -62,6 +62,7 @@
     "include-v-in-tag": true,
     "include-component-in-tag": true,
     "packages": {
+        ".": {},
         "cli": {
             "component": "text-tools",
             "release-type": "python",
