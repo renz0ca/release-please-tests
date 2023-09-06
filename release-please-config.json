@@ -63,12 +63,14 @@
     "include-component-in-tag": true,
     "packages": {
         "cli": {
+            "component": "text-tools",
             "release-type": "python",
-            "initial-version": "0.0.1"
+            "initial-version": "0.0.0"
         },
         "viewer": {
+            "component": "text-viewer",
             "release-type": "python",
-            "initial-version": "0.0.1"
+            "initial-version": "0.0.0"
         }
     }
 }
