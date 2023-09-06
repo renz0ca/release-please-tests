@@ -30,3 +30,7 @@ class RegexCompiler(Compiler):
             }
         else:
             raise ValueError("Invalid string, cannot compile.")
+
+    def dummy_function(self):
+        pass
+
