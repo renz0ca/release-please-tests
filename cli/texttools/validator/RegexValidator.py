@@ -21,3 +21,6 @@ class RegexValidator(Validator):
             bool: True if the string is valid, false otherwise.
         """
         return re.match(self.__validator, string) is not None
+
+    def dummy_function(self):
+        pass
